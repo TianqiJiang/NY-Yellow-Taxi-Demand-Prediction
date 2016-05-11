@@ -7,3 +7,5 @@ Data: Yellow taxi data for 2015 whole year from TLC
 Method: Naive Bayes Classification
 
 Predictor:  weather, day of week, time of day, neighborhood(NTA)
+
+Result: Model accuracy 77%
